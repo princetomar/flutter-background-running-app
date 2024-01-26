@@ -2,6 +2,8 @@
     package="com.example.flutter_bg_task_app">
     <!-- Allows a regular application to use Service.startForeground. -->
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
     <application
         android:label="flutter_bg_task_app"
         android:name="${applicationName}"
