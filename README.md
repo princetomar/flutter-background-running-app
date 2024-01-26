@@ -1,7 +1,9 @@
 # flutter_bg_task_app
 
 A Flutter project to fetch location in background.
+CHECKOUT THE DEMO
 [Screen Recording 2024-01-26 at 12.01.05 PM.zip](https://github.com/princetomar/flutter-background-running-app/files/14061055/Screen.Recording.2024-01-26.at.12.01.05.PM.zip)
+![image](https://github.com/princetomar/flutter-background-running-app/assets/71916212/bc4bbd98-514c-42c7-8b2a-b7bc378d4876)
 
 ## Getting Started
 
