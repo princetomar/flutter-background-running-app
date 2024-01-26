@@ -3,7 +3,10 @@
 A Flutter project to fetch location in background.
 CHECKOUT THE DEMO
 
-https://github.com/princetomar/flutter-background-running-app/assets/71916212/9d6cb359-a340-4d4a-a847-0e2d7ded3dbb
+
+
+https://github.com/princetomar/flutter-background-running-app/assets/71916212/bad17133-581f-452f-990e-87a6c2b90daa
+
 
 
 
