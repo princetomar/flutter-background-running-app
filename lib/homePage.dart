@@ -120,7 +120,7 @@ Future<void> onBackground() async {
 
 @pragma('vm:entry-point')
 void onStart(ServiceInstance service) async {
-  // Call your custom onStart logic here if needed
+  // Call your onStart logic here
   ourServiceFunction(service);
 }
 
